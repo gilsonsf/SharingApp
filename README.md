@@ -1,5 +1,4 @@
 # Sharing Items App
-
 This android app allows users to add items and share them with their contacts.
 
 Given a description of new functionality and an updated UML class diagram, you will implement the updated design into the Android code base.
