@@ -20,7 +20,7 @@ UML Class Diagram [view](https://github.com/gilsonsf/sharing-app/blob/master/img
 
 UML Sequence Diagram [view](https://github.com/gilsonsf/sharing-app/blob/master/imgs/UML-Sequence-Diagram.png)
 
-UML State diagram [view](https://github.com/gilsonsf/sharing-app/blob/master/imgs/UML-State-Diagram.png)
+UML State Diagram [view](https://github.com/gilsonsf/sharing-app/blob/master/imgs/UML-State-Diagram.png)
 
 ### Week 4 - Translate UML class diagrams to equivalent Java code.
 
@@ -32,4 +32,4 @@ UML State diagram [view](https://github.com/gilsonsf/sharing-app/blob/master/img
 
 **Part 2**
 
-[video submission](https://www.youtube.com/watch?time_continue=6&v=WVXvfkEZXEw)
+[Video Submission](https://www.youtube.com/watch?time_continue=6&v=WVXvfkEZXEw)
