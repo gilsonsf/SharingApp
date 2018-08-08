@@ -14,22 +14,22 @@ It was only quizes for week 1.
 
 ### Week 2 - Design Structure
 
-UML Class Diagram [view]()
+UML Class Diagram [view](https://github.com/gilsonsf/sharing-app/blob/master/imgs/UML-Class-Diagram.png)
 
 ### Week 3 - Modeling Behavior
 
-UML Sequence Diagram [view]()
+UML Sequence Diagram [view](https://github.com/gilsonsf/sharing-app/blob/master/imgs/UML-Sequence-Diagram.png)
 
-UML State diagram [view]()
+UML State diagram [view](https://github.com/gilsonsf/sharing-app/blob/master/imgs/UML-State-Diagram.png)
 
 ### Week 4 - Translate UML class diagrams to equivalent Java code.
 
 **Part 1**
 
-[Contact.java]()
+[Contact.java](https://github.com/gilsonsf/sharing-app/blob/master/SharingApp/app/src/main/java/com/example/sharingapp/Contact.java)
 
-[ContactList.java]()
+[ContactList.java](https://github.com/gilsonsf/sharing-app/blob/master/SharingApp/app/src/main/java/com/example/sharingapp/ContactList.java)
 
 **Part 2**
 
-[video submission]()
+[video submission](https://www.youtube.com/watch?time_continue=6&v=WVXvfkEZXEw)
