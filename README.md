@@ -14,11 +14,13 @@ It was only quizes for week 1.
 
 ### Week 2 - Design Structure
 
+UML Class Diagram [view]()
+
 ### Week 3 - Modeling Behavior
 
-#### 1.2 UML Sequence Diagram
+UML Sequence Diagram [view]()
 
-#### 1.3 UML State Diagram
+UML State diagram [view]()
 
 ### Week 4 - Translate UML class diagrams to equivalent Java code.
 
