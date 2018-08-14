@@ -1,5 +1,3 @@
-# hadoop-platform
-This is Hadoop Platform and Application Framework course
 # Sharing Items App
 
 This android app allows users to add items and share them with their contacts.
